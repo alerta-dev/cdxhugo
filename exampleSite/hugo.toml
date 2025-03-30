@@ -47,6 +47,20 @@ name = "discord"
 url = "https://discord.com/invite/Y2VUgTE"
 aria = "Servidor de Discord"
 
+[[params.social]]
+key = 3
+name = "facebook"
+url = "https://www.facebook.com/LoquendoAlert"
+aria = "pagina de facebook"
+
+[[params.social]]
+key = 4
+name = "reddit"
+url = "https://www.reddit.com/r/LoquendoAlert/"
+aria = "comunidad de reddit"
+
+
+
 # [[params.social]]
 # key = 3
 # name = "email"
