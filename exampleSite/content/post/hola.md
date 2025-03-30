@@ -15,8 +15,8 @@ categories = [
 Este es mi primer escrito
 <!--more-->
 
-![Descripción de la imagen](){width=50%} Buenas colegas xd
-
 <img src="https://64.media.tumblr.com/8cbab7d522f75cdafeae6a5d25d5f429/8ad4148f363f00f2-e2/s540x810/6dce29321acee88b48e4752ad02570038525e675.pnj" alt="Descripción" width="300" height="300">
 
+
+<!--![Descripción de la imagen](){width=50%} Buenas colegas xd-->
 
