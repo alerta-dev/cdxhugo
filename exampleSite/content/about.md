@@ -15,3 +15,4 @@ En este blog podras encontrar:
 * Consejos documentativos
 * Bitácora de descubrimientos
 
+![imagen](https://cdn.discordapp.com/attachments/1225215668253626418/1356029806277427232/PortadaFacheraPapulinceKerryTactico.jpg?ex=67eb14ab&is=67e9c32b&hm=bacb659025b080f9514743db9878c44647829dede3edbf1795ae6c4e976d5ca9&)
