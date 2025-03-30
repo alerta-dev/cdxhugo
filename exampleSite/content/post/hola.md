@@ -26,5 +26,7 @@ Solo imagen (Usar para portadas etc, puedes definir el tamaño con html de la im
     <p>Texto al lado de la imagen usando html en lugar de markdown.</p>
 </div>
 
-´Hola amigos´
+´´´Hola amigos´´´
+
+> **Note** that you can use *Markdown syntax* within a blockquote.
 
