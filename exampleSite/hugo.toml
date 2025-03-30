@@ -47,8 +47,8 @@ name = "discord"
 url = "https://discord.com/invite/Y2VUgTE"
 aria = "Servidor de Discord"
 
-[[params.social]]
-key = 3
-name = "email"
-url = "#"
-aria = "My e-Mail Address"
+# [[params.social]]
+# key = 3
+# name = "email"
+# url = "#"
+# aria = "My e-Mail Address"
