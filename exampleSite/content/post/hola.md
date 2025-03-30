@@ -28,5 +28,7 @@ Solo imagen (Usar para portadas etc, puedes definir el tamaño con html de la im
 
 '''Hola amigos'''
 
+{{Hola amigos}}
+
 > **Note** that you can use *Markdown syntax* within a blockquote.
 
