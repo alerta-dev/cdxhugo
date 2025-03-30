@@ -18,7 +18,7 @@ theme = "hugo-theme-nightfall"
     url = "about"
 
 [params]
-user = "hello"
+user = "LADevs"
 hostname = "gohugo.io"
   [params.author]
     name = "Loquendo Alert Devs"  # Website and RSS feed author
