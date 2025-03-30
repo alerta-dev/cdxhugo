@@ -28,8 +28,8 @@ Solo imagen (Usar para portadas etc, puedes definir el tamaño con html de la im
 
 > **Note** that you can use *Markdown syntax* within a blockquote.
 
-{{< css.inline >}}
-<style>
-.canon { background: white; width: 100%; height: auto; }
-</style>
-{{< /css.inline >}}
+{{< highlight html >}}
+algo para aclarar
+  xddddddddd xdxd
+}
+{{< /highlight >}}
