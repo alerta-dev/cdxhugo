@@ -30,5 +30,4 @@ Solo imagen (Usar para portadas etc, puedes definir el tamaño con html de la im
 
 {{< highlight html >}}
 contexto del tema referido
-}
 {{< /highlight >}}
