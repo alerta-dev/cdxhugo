@@ -26,5 +26,5 @@ Solo imagen (Usar para portadas etc, puedes definir el tamaño con html de la im
     <p>Texto al lado de la imagen usando html en lugar de markdown.</p>
 </div>
 
-<!--![Descripción de la imagen](){width=50%} Buenas colegas xd-->
+´Hola amigos´
 
