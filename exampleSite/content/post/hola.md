@@ -6,6 +6,10 @@ description = "Este es mi primer escrito"
 tags = [
     "loquendo",
 ]
+categories = [
+    "themes",
+    "syntax",
+]
 +++
 
 Este es mi primer escrito
