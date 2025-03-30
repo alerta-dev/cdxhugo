@@ -29,7 +29,6 @@ Solo imagen (Usar para portadas etc, puedes definir el tamaño con html de la im
 > **Note** that you can use *Markdown syntax* within a blockquote.
 
 {{< highlight html >}}
-hola.
-  comentario./
+contexto del tema referido
 }
 {{< /highlight >}}
