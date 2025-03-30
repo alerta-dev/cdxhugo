@@ -8,5 +8,5 @@ tags = [
 ]
 +++
 
-# Hola
+
 > Este es mi primer escrito
