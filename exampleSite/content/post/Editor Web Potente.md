@@ -2,7 +2,7 @@
 author = "Alert"
 title = "Editor web potente"
 date = "2025-03-30"
-description = "Este es mi primer escrito"
+description = "Aprende a usar lo basico de Pikimov y toda sus funciones"
 tags = [
     "web",
 ]
