@@ -11,7 +11,7 @@ categories = [
 ]
 +++
 Esta es mi historia en la comunidad 
-
-Hola amigos 
+<!--more-->
+# Hola amigos 
 
 
