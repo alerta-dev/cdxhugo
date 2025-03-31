@@ -40,4 +40,4 @@ No tengo quejas, solo falta que añadan la oportunidad de exportar a 60FPS y me 
 Tal vez se deba añadir la oportunidad de que se exporte en otro tipo de calidad o que solo se exporte el audio.
 ![exportar](https://64.media.tumblr.com/b4616d20b7cdc769e5b110f2cc13d450/23ad5ba1c32c9c08-eb/s1280x1920/e07f6d90296b093203151ca9c7c5cd0dbab3452e.pnj)
 
-**Pikimov** Actualmente es el mejor editor web que he probado, las cosas malas que tiene es por que aun el proyecto esta en pañales y le falta mucho por adelante, ya que este proyecto fue creado por un fanatico y es completamente gratuito, esta inspirado en el conocido editor de imagenes **Photophea** y este tipo de proyecto son fantasticos 
+## **Pikimov** Actualmente es el mejor editor web que he probado, las cosas malas que tiene es por que aun el proyecto esta en pañales y le falta mucho por adelante, ya que este proyecto fue creado por un fanatico y es completamente gratuito, esta inspirado en el conocido editor de imagenes **Photophea** y este tipo de proyecto son fantasticos 
