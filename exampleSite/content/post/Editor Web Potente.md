@@ -23,6 +23,8 @@ Tiene sus errores pero no te gasta tantos recursos como el editor web de "CapCut
 ![imagen](https://cdn.discordapp.com/attachments/1290165016187899904/1290165016410062980/image.png?ex=67eabf8e&is=67e96e0e&hm=e71727cd93be579c984174934acd9c8133aa270cc0bf820c2da44906540a7ff1&)
 La interfaz esta altamente inspirada en programas como "After Effects" lo cual es bueno si vienes de haberte acostumbrado a dicho programa, pero es incomodo en caso de ser nuevo usuario, ya que hay que admitir que la interfaz grafica no es muy atractiva como otros programas de edición, y ese es el problema actual de after, al ser tan tecnica a veces comete el error de asustar a sus nuevos potenciales usuarios. 
 
+***
+
 # Animación 
 - Para realizar animaciónes con KeyFrames es la mejor opción hasta el momento por que te da libertades que te dan programas profesiones como "After Effects" Literalmente es el mismo tipo de control con resultados similares, bastante sencillo de entender y utilizar. CapCut ultimamente esta optando por este tipo de sistema, pero en su caso se siente muy extraño intentar de manejarlo. Es exelete para animar imagenes en PNG como los loquenderos solemos hacer. (Aun que no tiene la curba de keyframes es bastante flexible)
 ![imagenz](https://64.media.tumblr.com/7ec14cebd4748314ac8e0ae3e97c91c1/23ad5ba1c32c9c08-3e/s1280x1920/b5e5b7c8235fd1520f16f37974b88ed7f7a73803.pnj)
@@ -32,6 +34,8 @@ La interfaz esta altamente inspirada en programas como "After Effects" lo cual e
 
 También no vendría mal que añadan algo para transiciones, es tediosos tener que construir tus propias transiciones con los efectos.
 ![efectoss](https://64.media.tumblr.com/64d5767d3208b71eb1b825c5be902e52/23ad5ba1c32c9c08-23/s1280x1920/7d06f7268da6cba5e498fc6dd3740f0f930e8502.pnj)
+
+***
 
 # 3D
 Pikimov a pesar de sus limitaciones se animo a añadir una opción para animar objetos 3D en donde podras añadir tus objetos **.GLB** Facilitando la manera de animar dichos objetos sin necesidad de programas, acoplando el sistema que también tiene After Effects para poder animar este tipo de objetos en 3D. Lo que se agrande las diferentes funcionalidades del programa, ahora aparte de editar simples imagenes en JPG o PNG podrás convinar *> modelos/videos/imagenes/gifs* 
