@@ -24,7 +24,7 @@ Tiene sus errores pero no te gasta tantos recursos como el editor web de "CapCut
 La interfaz esta altamente inspirada en programas como "After Effects" lo cual es bueno si vienes de haberte acostumbrado a dicho programa, pero es incomodo en caso de ser nuevo usuario, ya que hay que admitir que la interfaz grafica no es muy atractiva como otros programas de edición, y ese es el problema actual de after, al ser tan tecnica a veces comete el error de asustar a sus nuevos potenciales usuarios. 
 
 # Animación 
-- Para realizar animaciónes con KeyFrames es la mejor opción hasta el momento por que te da libertades que te dan programas profesiones como "After Effects" Literalmente es el mismo tipo de control con resultados similares, bastante sencillo de entender y utilizar. CapCut ultimamente esta optando por este tipo de sistema, pero en su caso se siente muy extraño intentar de manejarlo. Es exelete para animar imagenes en PNG como los loquenderos solemos hacer.
+- Para realizar animaciónes con KeyFrames es la mejor opción hasta el momento por que te da libertades que te dan programas profesiones como "After Effects" Literalmente es el mismo tipo de control con resultados similares, bastante sencillo de entender y utilizar. CapCut ultimamente esta optando por este tipo de sistema, pero en su caso se siente muy extraño intentar de manejarlo. Es exelete para animar imagenes en PNG como los loquenderos solemos hacer. (Aun que no tiene la curba de keyframes es bastante flexible)
 ![imagenz](https://64.media.tumblr.com/7ec14cebd4748314ac8e0ae3e97c91c1/23ad5ba1c32c9c08-3e/s1280x1920/b5e5b7c8235fd1520f16f37974b88ed7f7a73803.pnj)
 
 # Efectos 
