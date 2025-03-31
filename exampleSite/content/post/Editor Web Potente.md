@@ -33,6 +33,9 @@ La interfaz esta altamente inspirada en programas como "After Effects" lo cual e
 También no vendría mal que añadan algo para transiciones, es tediosos tener que construir tus propias transiciones con los efectos.
 ![efectoss](https://64.media.tumblr.com/64d5767d3208b71eb1b825c5be902e52/23ad5ba1c32c9c08-23/s1280x1920/7d06f7268da6cba5e498fc6dd3740f0f930e8502.pnj)
 
+# 3D
+Pikimov a pesar de sus limitaciones se animo a añadir una opción para animar objetos 3D en donde podras añadir tus objetos **.GLB** Facilitando la manera de animar dichos objetos sin necesidad de programas, acoplando el sistema que también tiene After Effects para poder animar este tipo de objetos en 3D. Lo que se agrande las diferentes funcionalidades del programa, ahora aparte de editar simples imagenes en JPG o PNG podrás convinar *> modelos/videos/imagenes/gifs* 
+
 # Sobre exportación
 No tengo quejas, solo falta que añadan la oportunidad de exportar a 60FPS y me parece exelente, sin complicarnos la vida con formatos inecesarios ni configuraciones extrañas, la exportación de proyectos es uno de los puntos mas fuertes de este editor, ya que es bastante directo con lo que queremos comenzar a editar y al exportar basicamente no hay que configurar nada, todo se exporta en el tradiciónal formato MP4 
 
