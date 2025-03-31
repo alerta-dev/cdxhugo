@@ -36,6 +36,8 @@ También no vendría mal que añadan algo para transiciones, es tediosos tener q
 # 3D
 Pikimov a pesar de sus limitaciones se animo a añadir una opción para animar objetos 3D en donde podras añadir tus objetos **.GLB** Facilitando la manera de animar dichos objetos sin necesidad de programas, acoplando el sistema que también tiene After Effects para poder animar este tipo de objetos en 3D. Lo que se agrande las diferentes funcionalidades del programa, ahora aparte de editar simples imagenes en JPG o PNG podrás convinar *> modelos/videos/imagenes/gifs* 
 
+{{< youtube c6k0TwJTIh0 >}}
+
 # Sobre exportación
 No tengo quejas, solo falta que añadan la oportunidad de exportar a 60FPS y me parece exelente, sin complicarnos la vida con formatos inecesarios ni configuraciones extrañas, la exportación de proyectos es uno de los puntos mas fuertes de este editor, ya que es bastante directo con lo que queremos comenzar a editar y al exportar basicamente no hay que configurar nada, todo se exporta en el tradiciónal formato MP4 
 
