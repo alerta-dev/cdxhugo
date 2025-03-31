@@ -1,6 +1,6 @@
 +++
 author = "Alert"
-title = "EditorWebPotente"
+title = "Editor web potente"
 date = "2025-03-30"
 description = "Este es mi primer escrito"
 tags = [
