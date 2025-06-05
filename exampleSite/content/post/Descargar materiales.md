@@ -26,3 +26,5 @@ En su sitio web oficial, puedes encontrar una amplia variedad de materiales úti
 Además, la página está vinculada a un servidor de Discord donde se ofrecen clases de edición, guion y se organizan eventos para fomentar la colaboración entre creadores 
 
 Si estás interesado en crear contenido con voces sintéticas y buscas recursos para mejorar tus proyectos, Loquendo Alert Creators es una excelente fuente de materiales y apoyo comunitario.
+
+{{< youtube GTviJSZN6gA >}}
