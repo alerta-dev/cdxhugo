@@ -21,6 +21,7 @@ Photopea es un editor online que cumple exactamente las mismas funciones que cum
 En este artículo exploramos las características más importantes de Photopea y por qué se ha convertido en una herramienta tan popular entre diseñadores, estudiantes, creadores de contenido y usuarios en general.
 
 ![imagen1](https://i.imgur.com/vOBHMby.png)
+
 ---
 
 ## ✅ Ventajas de usar Photopea
@@ -43,8 +44,9 @@ Photopea no solo trabaja con PSD, sino también con otros formatos populares com
 
 Esto permite trabajar con archivos creados en distintos programas de diseño sin complicaciones, y exportarlos en el formato que más se necesite.
 
----
 ![image2](https://i.imgur.com/fHpjgMt.png)
+
+---
 ## 🧰 Funciones avanzadas de edición
 
 A pesar de ser una herramienta en línea, Photopea ofrece muchas funciones avanzadas:
@@ -76,6 +78,7 @@ Photopea funciona completamente desde el navegador, lo que lo hace perfecto para
 
 Al ser una app web, puedes acceder a Photopea desde cualquier dispositivo con conexión a Internet. Ya sea en casa, en la escuela o en el trabajo, tus proyectos están siempre disponibles sin necesidad de llevar archivos o instalar nada.
 
+![img3](https://i.imgur.com/i84RNlo.png)
 ---
 
 ## 📴 Modo sin conexión
