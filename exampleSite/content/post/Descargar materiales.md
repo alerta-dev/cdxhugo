@@ -23,8 +23,12 @@ En su sitio web oficial, puedes encontrar una amplia variedad de materiales úti
 - Renders de personajes: de anime, videojuegos y cultura pop, creados por miembros de la comunidad.
 - Fondos y efectos de sonido: packs de fondos y sonidos provenientes de estudios como Warner Bros., Sony Pictures y más.
 
-Además, la página está vinculada a un servidor de Discord donde se ofrecen clases de edición, guion y se organizan eventos para fomentar la colaboración entre creadores 
-
-Si estás interesado en crear contenido con voces sintéticas y buscas recursos para mejorar tus proyectos, Loquendo Alert Creators es una excelente fuente de materiales y apoyo comunitario.
+# Muchos Renders
+> Loquendo Alert Creators pose una librería de renders con mas de 150+ renders gratuitos y libres para toda la comunidad, desde personajes de animes a video juegos entre muchos otros para diferentes usos.
 
 {{< youtube GTviJSZN6gA >}}
+Además, la página está vinculada a un servidor de Discord donde se ofrecen clases de edición, guion y se organizan eventos para fomentar la colaboración entre creadores 
+
+Si estás interesado en crear contenido con voces sintéticas y buscas recursos para mejorar tus proyectos, Loquendo Alert Creators es una excelente fuente de materiales y apoyo comunitario. [LoquendoAlertCreatos Link](https://loquendoalertcreators.netlify.app/) 
+
+
