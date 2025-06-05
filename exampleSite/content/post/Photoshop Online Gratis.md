@@ -1,8 +1,8 @@
 +++
 author = "Alert"
-title = "Editor web potente"
+title = "Photoshop Online Gratis"
 date = "2025-03-30"
-description = "Aprende a usar lo basico de Pikimov y toda sus funciones"
+description = "Aprende a usar lo basico de Photopea y toda sus funciones"
 tags = [
     "web",
 ]
