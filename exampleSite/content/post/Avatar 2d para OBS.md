@@ -10,11 +10,8 @@ categories = [
     "OBS",
 ]
 +++
-+++
-
-
 Crea un personaje y colocalo en tu obs, suena facil pero es complicado lograr que luzca bien, estetico y que funcione segun a lo que buscamos algunas personas. ¿No te gustaría darle un poco mas de personalidad? Puedo ayudarte... 
-
+<!--more-->
 
 # 🦸‍♂️ Avatar
 
