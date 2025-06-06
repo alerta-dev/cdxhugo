@@ -30,7 +30,7 @@ Teniendo el avatar listo, vamos a proceder a colocarlo en OBS, por si no lo tien
 
 **En caso de que tengas las 4 imagenes con ojos cerrados** deberas descargar el siguiente programa [https://olmewe.itch.io/veadotube-mini](https://olmewe.itch.io/veadotube-mini) Que basicamente es una pagina para que cada vez que tu microfono detecte que hables, va a animar el avatar, solo coloca las imagenes de forma correcta en su respectiva casilla.
 
-![veado1](https://img.itch.zone/aW1nLzIxMzg2NzkwLnBuZw==/original/ZZvQQC.png)
+![veado1](https://i.imgur.com/MBvZfUU.png)
 
 **En caso de que solo tengas 2 imagenes** solo descarga la siguiente extension para obs, no consume tantos recursos lo cual da ventaja en rendimiento. [Plugin](https://obsproject.com/forum/resources/image-reaction.1342/)
 
