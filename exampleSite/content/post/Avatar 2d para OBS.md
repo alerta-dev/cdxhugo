@@ -32,7 +32,7 @@ Teniendo el avatar listo, vamos a proceder a colocarlo en OBS, por si no lo tien
 
 ![veado1](https://img.itch.zone/aW1nLzIxMzg2NzkwLnBuZw==/original/ZZvQQC.png)
 
-En caso de que solo tengas 2 imagenes, solo descarga la siguiente extension para obs, no consume tantos recursos lo cual da ventaja en rendimiento. [Plugin](https://obsproject.com/forum/resources/image-reaction.1342/)
+**En caso de que solo tengas 2 imagenes** solo descarga la siguiente extension para obs, no consume tantos recursos lo cual da ventaja en rendimiento. [Plugin](https://obsproject.com/forum/resources/image-reaction.1342/)
 
 ![Pluggg](https://i.imgur.com/K38f7bH.png)
 
