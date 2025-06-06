@@ -34,7 +34,7 @@ Teniendo el avatar listo, vamos a proceder a colocarlo en OBS, por si no lo tien
 
 En caso de que solo tengas 2 imagenes, solo descarga la siguiente extension para obs, no consume tantos recursos lo cual da ventaja en rendimiento. [Plugin](https://obsproject.com/forum/resources/image-reaction.1342/)
 
-[Pluggg](https://i.imgur.com/K38f7bH.png)
+![Pluggg](https://i.imgur.com/K38f7bH.png)
 
 # Animar avatar
 > A este punto ahora vamos a trabajar con animar el avatar y darle un toque mas elastico, para que no luzca tan estatico y darle un poco mas de personalizar.
