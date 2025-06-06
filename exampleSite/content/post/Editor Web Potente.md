@@ -1,6 +1,6 @@
 +++
 author = "Alert"
-title = "Editor web potente"
+title = "🌐 Editor web potente"
 date = "2025-03-30"
 description = "Aprende a usar lo basico de Pikimov y toda sus funciones"
 tags = [
