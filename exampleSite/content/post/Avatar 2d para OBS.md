@@ -20,7 +20,7 @@ Para comenzar vamos a hacer de cuenta que tengo un avatar, pero no tengo renders
 En mi caso solo vamos a hacer dos y para ello vamos a ir a ChatGPT y vamos a mandarle una foto de nuestro avatar y le diremos que analize y describa el avatar.
 Posteriormente a eso, vamos a crear un pront del tipo de estilo que queremos que tenga el avatar, en mi caso le indique que sea estilo anime chibi con boca abierta, como no me dio buen resultado con boca cerrada en photopea se la cerre. El resultado es el siguiente: 
 
-Imagen
+![avattars](https://i.imgur.com/6WU833F.png)
 
 # Añadir Avatar en OBS
 
