@@ -16,3 +16,5 @@ En este blog podras encontrar:
 * Bitácora de descubrimientos
 
 ![portada](https://i.imgur.com/YOk71im.png)
+
+Si quieres aportar o crear cosas para la comunidad. Unete a [LoquendoAlertDevs](https://discord.gg/tSakuzMGXq)
