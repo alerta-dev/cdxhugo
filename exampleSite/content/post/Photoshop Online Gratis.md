@@ -1,6 +1,6 @@
 +++
 author = "Alert"
-title = "Photoshop Online Gratis"
+title = "📷 Photoshop Online Gratis"
 date = "2025-03-30"
 description = "Aprende a usar lo basico de Photopea y toda sus funciones"
 tags = [
